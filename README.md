@@ -4,7 +4,6 @@ sing-box 多服务器管理面板 —— 一个主控统一管理多台 sing-box
 
 架构为 **主控（wui，Go 单二进制，前端已内嵌）+ Agent（wui-agent，装在每台 sing-box 服务器上）**。
 
-> 本仓库不公开源码，仅通过 [Releases](https://github.com/ficyue/w-ui/releases) 发布编译好的二进制文件。
 
 ## 功能特性
 
